@@ -8,6 +8,7 @@ public class GifAnyVideoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GifAnyVideoApplication.class, args);
+		
 	}
 
 }
